@@ -5,6 +5,15 @@ date: 2019-05-10
 thumb_img_path: "/images/p-01.jpg"
 content_img_path: "/images/p-01.jpg"
 layout: project
+galerie:
+- "/images/2_thumb.jpg"
+- "/images/1_thumb.jpg"
+- "/images/13.jpg"
+- "/images/about.jpg"
+- "/images/3_thumb.jpg"
+- "/images/7.jpg"
+- "/images/6_thumb.jpg"
+- "/images/p-01.jpg"
 
 ---
 Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
